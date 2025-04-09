@@ -1,0 +1,11 @@
+{
+    "id": "smart-tag",
+    "name": "SmartTag 智能标签助手",
+    "version": "0.1.0",
+    "minAppVersion": "0.12.0",
+    "description": "调用 LLM 接口生成智能推荐标签，并自动写入笔记 YAML Frontmatter 中",
+    "author": "金泓羽",
+    "authorUrl": "https://example.com",
+    "isDesktopOnly": false
+  }
+  
