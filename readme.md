@@ -146,7 +146,7 @@ SmartTag 是一款针对 Obsidian 的插件，通过调用兼容 OpenAI 格式�
 
 ## 七、开发者联系方式
 
-* 如有问题或建议，请通过 GitHub Issues 联系我，或者发送邮件到 [your_email@example.com](mailto:your_email@example.com)。
+* 如有问题或建议，请通过 GitHub Issues 联系我，或者发送邮件到 [skyjin](mailto:your_email@example.com)1208@gmail.com。
 
 ---
 
